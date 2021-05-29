@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Foxyflow ... AKA Luke Fox from NZ looking for work in UK.
-- 👀 I’m interested in ... putting my Computer Science degree to work as a Videogame Developer or software programmer.
-- 🌱 I’m currently learning ... how to get London/Kent area's software Human Resources Departments to notice me for a working/sponsorship visa.
-- 💞️ I’m looking to collaborate on ... remote or agile work. I enjoy programming for design (and guitar).
+- 👋 Hi, I’m Foxyflow ... AKA Luke Fox from NZ looking for software development work.
+- 👀 I’m interested in ... putting my Computer Science degree to work as a software programmer for design.
+- 🌱 I’m currently building a dynamic website using React for the frontend and Node as the server so I can stop paying for Wordpress, then I'll be back to creating my learning languages game.
+- 💞️ I’m looking to collaborate on ... remote or agile face to face work. Long term would be preferred. 
 - 📫 How to reach me ... foxyflow@contractor.net
 
 <!---
