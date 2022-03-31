@@ -1,5 +1,5 @@
 - 👋 Hi, I’m foxyflow ... AKA Luke Fox from NZ. For my latest activity and CV info., checkout https://lukeslanguagelearning.academy/ 
-- 👀 I’m interested in ... how websites are becoming 3D and games being added with Javascript and the latest libraries.
+- 👀 I’m interested in ... Combining webdev with gamedev -- how websites are becoming 3D and games being added with Javascript and the latest libraries.
 - 🌱 On Youtube I teach some programming fundamentals via how to make a classic game using Python ... 
 - My goal is to set people up, for future programming endeavours.
 - https://www.youtube.com/channel/UC9IZmtiofWELTH9zk8GHxHQ 
