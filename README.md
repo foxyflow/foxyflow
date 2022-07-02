@@ -3,8 +3,8 @@
 - 🌱 On Youtube I teach some programming fundamentals via how to make a classic game using Python ... 
 - My goal is to set people up, for future programming endeavours. My stack: Javascript, React, Nextjs, Typescript, Phaser 3, and three.js.
 - https://www.youtube.com/channel/UC9IZmtiofWELTH9zk8GHxHQ 
-- 💞️ I’m looking to collaborate on ... educational games projects ...
-- 📫 How to reach me ... foxyflow@contractor.net -- I usually check it early mornings.
+- 💞️ I’m looking to collaborate with 3D Modelists EG people that enjoy using Blender.
+- 📫 How to reach me ... foxyflow@contractor.net -- I usually check in early mornings.
 
 <!---
 foxyflow/foxyflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
