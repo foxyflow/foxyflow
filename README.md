@@ -1,9 +1,7 @@
-- 👋 Hi, I’m foxyflow a software contractor ... AKA Luke Fox from NZ. For my latest activity and CV info., checkout https://lukeslanguagelearning.academy/ 
-- 👀 I’m interested in ... combining webdev with gamedev for instant user experience -- websites are becoming 3D powerhouses thanks to the latest languages and libraries being complied down to WebAssembly ... there is no need to spend years mastering lower languages for an enjoyable product anymore.
-- 🌱 On Youtube I teach some programming fundamentals via how to make a classic game using Python ... 
-- My goal is to set people up, for future programming endeavours. My stack: Javascript, React, Nextjs, Typescript, Phaser 3, and three.js.
-- https://www.youtube.com/channel/UC9IZmtiofWELTH9zk8GHxHQ 
-- 💞️ I’m looking to collaborate with 3D Modelists EG people that enjoy using Blender.
+- 👋 Hi, I’m Luke Fox a remote ReactJS webapp designer for small business.
+- 👀 I’m interested in ... combining gamedev with webdev EG metaverses. How? WebAssembly. Traditional (C++ or C#) 3D games can now be complied to the net for instant interaction without downloading. I believe we are here thanks to smart system engineers implementing BunJS, Zig or Rust etc for web dev. I use ReactJS, React Three Fiber, Typescript, and Tailwind for the frontend; and NextJS, NodeJS, and Firebase for the backend. If you're interested, I'm interested.
+- My goal is to set people up for future proof programming endeavours.
+- 💞️ I’m looking to collaborate JS programmers, 3D Modelists, and backend engineers interested in solidity's ERC1155 frameworks and non-relational databases. 
 - 📫 How to reach me ... foxyflow@contractor.net -- I usually check in early mornings.
 
 <!---
