@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luke Fox, I enjoy programming games. 
-- 👀 I’m interested in ...  Python, pygame, and using Python to teach and develop.
-- 💞️ Currently working on a personal puzzle game in Unity using C#/.Net.
+- 👀 Hoping to get a job as a game tester or programmer.
+- 💞️ Currently working on a personal 2D puzzle game in Unity using C#/.Net.
 - 📫 foxyflow@contractor.net 
 
 <!---
