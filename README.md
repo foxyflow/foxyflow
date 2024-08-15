@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luke Fox, I enjoy programming games. 
 - 👀 Hoping to get a job as a game programmer.
-- 💞️ Currently working on a 2D puzzle platformer in Unity using C#'s OOP, Events, State-machines, Scriptable Objects, all that good scalable stuff for collaboration.
+- 💞️ Currently working on a 2D puzzle platformer in Unity using C# -- collaborate with me if you like.
 - 📫 foxyflow@contractor.net 
 
 <!---
