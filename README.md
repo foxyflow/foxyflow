@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luke Fox, I enjoy programming.
-- 👀 Looking for artists for a Sega game I'm working on.
-- 💞️ Checkout TowerOfPower a 2D puzzle platformer created in Unity using C#
-- Interested in AI; Raspberry Pi, and AR Glasses
-- 📫 luke.davis.fox@gmail.com 
+- 👀 Looking for work in the gaming industry.
+- 💞️ Checkout Sega's TowerOfPower a 2D puzzle platformer on itch.io created in Unity.
+- Currently creating a game using Godot.
+- 📫 lukedavisfox@gmail.com 
 
 <!---
 foxyflow/foxyflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
