@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Luke Fox, I enjoy programming.
-- 👀 Looking for work in the gaming industry.
+- 👋 Hi, I’m Luke Fox, I enjoy programming, skating, and surfing.
+- 👀 Looking to embed games into your website.
 - 💞️ Checkout Sega's TowerOfPower a 2D puzzle platformer on itch.io created in Unity.
-- Currently creating a game using Godot.
+
 - 📫 lukedavisfox@gmail.com 
 
 <!---
