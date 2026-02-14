@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luke Fox, I enjoy programming, skating, and surfing.
-- 👀 Looking to embed games into your website.
-- 💞️ Checkout Sega's TowerOfPower a 2D puzzle platformer on itch.io created in Unity.
+- 👀 Looking for work as a game engine engineer
+- 💞️ Checkout raycasting demo
 
 - 📫 lukedavisfox@gmail.com 
 
